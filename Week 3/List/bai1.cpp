@@ -63,4 +63,4 @@ int main() {
     return 0;
 }
 //Them cuoi/dau va xoa danh sach: O(1)
-//In danh sach: O(N)
+//In danh sach: O(N) 
